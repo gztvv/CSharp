@@ -1,0 +1,15 @@
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\bin\Debug\net6.0\RevisaoClasses.exe
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\bin\Debug\net6.0\RevisaoClasses.deps.json
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\bin\Debug\net6.0\RevisaoClasses.runtimeconfig.json
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\bin\Debug\net6.0\RevisaoClasses.dll
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\bin\Debug\net6.0\RevisaoClasses.pdb
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\RevisaoClasses.csproj.AssemblyReference.cache
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\RevisaoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\RevisaoClasses.AssemblyInfoInputs.cache
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\RevisaoClasses.AssemblyInfo.cs
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\RevisaoClasses.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\RevisaoClasses.dll
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\refint\RevisaoClasses.dll
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\RevisaoClasses.pdb
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\RevisaoClasses.genruntimeconfig.cache
+C:\Projetos\C#\RevisaoClasses\RevisaoClasses\obj\Debug\net6.0\ref\RevisaoClasses.dll
