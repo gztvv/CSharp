@@ -1,0 +1,15 @@
+C:\Projetos\C#\Pagamentos\Pagamentos\bin\Debug\net6.0\Pagamentos.exe
+C:\Projetos\C#\Pagamentos\Pagamentos\bin\Debug\net6.0\Pagamentos.deps.json
+C:\Projetos\C#\Pagamentos\Pagamentos\bin\Debug\net6.0\Pagamentos.runtimeconfig.json
+C:\Projetos\C#\Pagamentos\Pagamentos\bin\Debug\net6.0\Pagamentos.dll
+C:\Projetos\C#\Pagamentos\Pagamentos\bin\Debug\net6.0\Pagamentos.pdb
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\Pagamentos.csproj.AssemblyReference.cache
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\Pagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\Pagamentos.AssemblyInfoInputs.cache
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\Pagamentos.AssemblyInfo.cs
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\Pagamentos.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\Pagamentos.dll
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\refint\Pagamentos.dll
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\Pagamentos.pdb
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\Pagamentos.genruntimeconfig.cache
+C:\Projetos\C#\Pagamentos\Pagamentos\obj\Debug\net6.0\ref\Pagamentos.dll
